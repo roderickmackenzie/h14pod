@@ -46,18 +46,27 @@ Document must contain
 
 The document must:
 - Not be longer than 2 pages of text + up to a maximum of 1 page of references. (3 pages in total)
-- 
-
+- It must be written in LaTex, using a double column format.
+- It must contain two figures.
+- The referencing must be of the standard expected in an MSc dissertation, i.e. no web links.
+- It must contain one table.
 
 
 Marking Scheme
-This literature review is worth 50% of the H14POD module and will be marked out of 100.  You should give a comprehensive and critical background to the topic so that you can show your knowledge of the subject area.  You should acknowledge other people’s ideas and attribute them whilst demonstrating evidence for your own ideas as well as counter arguments where possible.  Don’t simply list ideas and results that others have published, compare contrast and analyze them.  By the end of this literature review, you should become an expert on the topic.
-    • Report structure and format (10/100): Marks will be awarded for appropriate and correct structure.
-    • Report writing & presentation (20/100): Marks will be awarded for presentation and readability with appropriate illustrations, a clearly defined introduction and conclusion, logical and fluent organisation of ideas in the body of the report, appropriate grammar, punctuation, spelling and language use.
-    • Discussion (60/100): Marks will be awarded for clear identification of the field of study, critical evaluation of the selected technologies, clear evidence of extensive independent study and thinking, comparison and contrasting of the current literature found in a range of sources, demonstration of an ability to build a logical argument from the current literature.
-    • Referencing (10/100): Marks will be awarded for appropriate and correct citation, research with relevant literature, use of multiple sources, acknowledgement in the text of all sources for ideas quoted, paraphrased or accessed.
-Who will mark my literature review?
-Your supervisor will mark your literature review, however I will moderate your supervisors marking to ensure consistency over the cohort.
-Submission
-You are to submit the literature review as a pdf file to to moodle not a docx or doc file.  If you upload an MS Word document and it does not open correctly on your supervisors tablet/laptop/PC, you could loose the presentation marks.  If  you upload the wrong file, or no file, or an empty file late marks late marks will be applied as usual.
+This literature review is worth 20% of the module and will be marked out of 100.  You should give a comprehensive and critical background to the topic so that you can show your knowledge of the subject area.  You should acknowledge other people’s ideas and attribute them whilst demonstrating evidence for your own ideas as well as counter arguments where possible.  Don’t simply list ideas and results that others have published, compare contrast and analyze them.  By the end of this literature review, you should become an expert on the topics you chose.
+
+ - Report structure and format: Marks will be awarded for appropriate and correct structure.
+ - Report writing & presentation: Marks will be awarded for presentation and readability with appropriate illustrations, a clearly defined introduction and conclusion, logical and fluent organisation of ideas in the body of the report, appropriate grammar, punctuation, spelling and language use.
+ - Discussion: Marks will be awarded for clear identification of the field of study, critical evaluation of the selected technologies, clear evidence of extensive independent study and thinking, comparison and contrasting of the current literature found in a range of sources, demonstration of an ability to build a logical argument from the current literature.
+ - Referencing: Marks will be awarded for appropriate and correct citation, research with relevant literature, use of multiple sources, acknowledgement in the text of all sources for ideas quoted, paraphrased or accessed.
+
+5. Who will mark my literature review?
+--------------------------------------
+Dr. Bonnyman and Dr. MacKenzie
+
+6. Submission
+------------
+You are to submit the literature review in a zip file.  The zip file **must** contain a pdf of your literature review.  It must also contain all the source code and images needed to build the pdf.
+
+If  you upload the wrong file, or no file, or an empty file late marks late marks will be applied as usual.
 
