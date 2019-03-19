@@ -36,7 +36,7 @@ It is intended that you will demonstrate the following learning outcomes:
  - Use references.
  - Produce a well formatted document in LaTeX
 
-4. The format of the literature review
+4.The format of the literature review
 --------------------------------------
 
 Document must contain:
