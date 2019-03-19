@@ -11,14 +11,14 @@ When it comes time to perform a literature review as part of you dissertation, y
 
 2. The topic of the literature review
 -------------------------------------
-This literature review will be *on solar energy harvesting*, specifically turning the suns energy into a useful power source for man kind.  The way you approach the topic is up to you, for example if are doing an MSc in Electrical Engineering, you may want to focus on the challenges of running an electricity grid with a lot solar in it.  If your MSc is in Materials Science, you may want to focus on novel materials used in 3rd generation solar cells, or if your MSc is in the bio-sciences, you may want to focus on growing bio-mass to then burning bio-mass to generate energy.  The exact focus is up to you, but your review must extensively answer at least three of the following points.
+This literature review will be *on solar energy harvesting*, specifically turning the suns energy into a useful power source for man kind.  The way you approach the topic is up to you, for example if are doing an MSc in Electrical Engineering, you may want to focus on the challenges of running an electricity grid with a lot solar in it.  If your MSc is in Materials Science, you may want to focus on novel materials used in 3rd generation solar cells, or if your MSc is in the bio-sciences, you may want to focus on growing bio-mass to then burn to generate energy.  The exact focus is up to you, but your review must extensively answer at least three of the following points.
 
- - Discuss the past and future cost harvesting of solar energy, and how these have/will changed over time.
- - Under what circumstances/where in the world does solar energy already out compete fossil fuels in terms of costs, how is this projected to change?
- - What types of solar technologies available, and how these have developed over time?
- - Upcoming and promising methods of harvesting the suns energy.
+ - Discuss the past and future cost of harvesting solar energy, and how these have/will change over time.
+ - Under what circumstances/where in the world does solar energy already out compete fossil fuels in terms of costs, how is this projected to change and why?
+ - What types of solar harvesting technologies are available, and how these have developed over time?  What will happen to these different types of technology in the future?
+ - What are the upcoming and promising methods of harvesting the suns energy.
  - Predict how will the UKs electricity be produced in 20 years and why?
- - How solar energy can be stored for use at night.
+ - How can solar energy be stored for use at night.
  - When might we run out of coal and oil?
 
 
@@ -32,11 +32,11 @@ It is intended that you will demonstrate the following learning outcomes:
  - Write, a literature review in a structured and concise way.
  - Write scientific English
  - Use references.
- - Produce a well formatted document.
+ - Produce a well formatted document in LaTeX
 
 4. The format of the literature review
 -------------------------------------
-Document must contain
+Document must contain:
 
  - Abstract
  - Introduction
@@ -46,19 +46,21 @@ Document must contain
 
 The document must:
 - Not be longer than 2 pages of text + up to a maximum of 1 page of references. (3 pages in total)
-- It must be written in LaTex, using a double column format.
+- It must be written in LaTeX, using a *double column format*.
 - It must contain two figures.
 - The referencing must be of the standard expected in an MSc dissertation, i.e. no web links.
 - It must contain one table.
 
 
-Marking Scheme
+5.Marking Scheme
+================
+
 This literature review is worth 20% of the module and will be marked out of 100.  You should give a comprehensive and critical background to the topic so that you can show your knowledge of the subject area.  You should acknowledge other people’s ideas and attribute them whilst demonstrating evidence for your own ideas as well as counter arguments where possible.  Don’t simply list ideas and results that others have published, compare contrast and analyze them.  By the end of this literature review, you should become an expert on the topics you chose.
 
  - Report structure and format: Marks will be awarded for appropriate and correct structure.
- - Report writing & presentation: Marks will be awarded for presentation and readability with appropriate illustrations, a clearly defined introduction and conclusion, logical and fluent organisation of ideas in the body of the report, appropriate grammar, punctuation, spelling and language use.
+ - Report writing & presentation: Marks will be awarded for presentation and readability with appropriate illustrations, a clearly defined introduction and conclusion, logical and fluent organization of ideas in the body of the report, appropriate grammar, punctuation, spelling and language use.
  - Discussion: Marks will be awarded for clear identification of the field of study, critical evaluation of the selected technologies, clear evidence of extensive independent study and thinking, comparison and contrasting of the current literature found in a range of sources, demonstration of an ability to build a logical argument from the current literature.
- - Referencing: Marks will be awarded for appropriate and correct citation, research with relevant literature, use of multiple sources, acknowledgement in the text of all sources for ideas quoted, paraphrased or accessed.
+ - Referencing: Marks will be awarded for appropriate and correct citation, research with relevant literature, use of multiple sources, acknowledgment in the text of all sources for ideas quoted, paraphrased or accessed.
 
 5. Who will mark my literature review?
 --------------------------------------
@@ -66,5 +68,12 @@ Dr. Bonnyman and Dr. MacKenzie
 
 6. Submission
 ------------
-You are to submit the literature review in a zip file (not a rar or any other type of archive).  The zip file **must** contain a pdf of your literature review.  It must also contain all the source code and images needed to build the pdf.  You are to upload the zip file to moodle.  Late marks late marks will be applied as usual.  Note this is individual work not group work, the usual penalties for plagiarism will be applied. 
+You are to submit the literature review in a zip file (not a rar or any other type of archive).  The zip file **must** contain a pdf of your literature review.  It must also contain all the source code and images needed to build the pdf.  You are to upload the zip file to moodle.  Late marks late marks will be applied as usual.  Note this is individual work not group work, the usual penalties for plagiarism will be applied.
 
+7. Hints
+========
+This is how you produce a double column document in LaTeX, you set your documentclass line to read:
+
+~~~~
+\documentclass[twoside]{article} 
+~~~~
