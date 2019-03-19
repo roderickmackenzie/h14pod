@@ -1,7 +1,7 @@
 Literature Review for Advanced Engineering Research Project Organization and Design
 =========================
 
-1. Background and motivation
+1.Background and motivation
 ----------------------------
 
 Over the summer you will be undertaking a research focused project.  Most of you will be embedded in a research group or at the very least have a supervisor who is research active.  The goal of Scientific/Engineering in a University is to make a novel contribution to your field of study.  Before you can do this, you must first understand what others have done before in your filed, what a novel direction of research would be and where your potential project fits into this this picture.  In short, it is much better to spend time building on the work of others, than repeating work others have already done before.  Or as Newton said in 1676, "If I have seen further, it is by standing on the shoulders of giants.", which means he only accomplished what he did by building on the work of others.
@@ -10,7 +10,7 @@ This literature review, task will enable you to develop the skills of searching 
 
 When it comes time to perform a literature review as part of you dissertation, you will already have these skills well practiced.  This means that when you start your project, you will hit the ground running. If your work, based on a sound literature review and raises very interesting research questions, you may even be able to turn your dissertation into a published paper which would be very good for your CV.
 
-2. The topic of the literature review
+2.The topic of the literature review
 -------------------------------------
 
 This literature review will be *on solar energy harvesting*, specifically turning the suns energy into a useful power source for man kind.  The way you approach the topic is up to you, for example if are doing an MSc in Electrical Engineering, you may want to focus on the challenges of running an electricity grid with a lot solar in it.  If your MSc is in Materials Science, you may want to focus on novel materials used in 3rd generation solar cells, or if your MSc is in the bio-sciences, you may want to focus on growing bio-mass to then burn to generate energy.  The exact focus is up to you, but your review must extensively answer at least three of the following points.
@@ -24,7 +24,7 @@ This literature review will be *on solar energy harvesting*, specifically turnin
  - When might we run out of coal and oil?
 
 
-3. Learning Outcomes
+3.Learning Outcomes
 --------------------
 
 It is intended that you will demonstrate the following learning outcomes:
