@@ -1,4 +1,4 @@
-Literature Review for Advanced Engineering Research Project Organisation and Design
+Literature Review for Advanced Engineering Research Project Organization and Design
 =========================
 
 1. Background and motivation
@@ -11,7 +11,15 @@ When it comes time to perform a literature review as part of you dissertation, y
 
 2. The topic of the literature review
 -------------------------------------
-This literature review will be on solar energy, you may
+This literature review will be *on solar energy harvesting*, specifically turning the suns energy into a useful power source for man kind.  The way you approach the topic is up to you, for example if are doing an MSc in Electrical Engineering, you may want to focus on the challenges of running an electricity grid with a lot solar in it.  If your MSc is in Materials Science, you may want to focus on novel materials used in 3rd generation solar cells, or if your MSc is in the bio-sciences, you may want to focus on growing bio-mass to then burning bio-mass to generate energy.  The exact focus is up to you, but your review must extensively answer at least three of the following points.
+
+ - Discuss the past and future cost harvesting of solar energy, and how these have/will changed over time.
+ - Under what circumstances/where in the world does solar energy already out compete fossil fuels in terms of costs, how is this projected to change?
+ - What types of solar technologies available, and how these have developed over time?
+ - Upcoming and promising methods of harvesting the suns energy.
+ - Predict how will the UKs electricity be produced in 20 years and why?
+ - How solar energy can be stored for use at night.
+ - When might we run out of coal and oil?
 
 
 3. Learning Outcomes
@@ -26,16 +34,21 @@ It is intended that you will demonstrate the following learning outcomes:
  - Use references.
  - Produce a well formatted document.
 
-Resources
-You will need:
-    • One kick off meeting with your supervisor, where the topic of your project and literature review will be set.
-Requirements
-You are to write a 2,000 word (maximum) literature review including appropriate diagrams and illustrations on the topic of your project.  The word count does not include, the appendix, figure captions, or the reference list.  The review should include an:
-    • Abstract or summary
-    • Introduction
-    • Discussion
-    • Conclusion
-    • References
+4. The format of the literature review
+-------------------------------------
+Document must contain
+
+ - Abstract
+ - Introduction
+ - Discussion
+ - Conclusion
+ - References
+
+The document must:
+- Not be longer than 2 pages of text + up to a maximum of 1 page of references. (3 pages in total)
+- 
+
+
 
 Marking Scheme
 This literature review is worth 50% of the H14POD module and will be marked out of 100.  You should give a comprehensive and critical background to the topic so that you can show your knowledge of the subject area.  You should acknowledge other people’s ideas and attribute them whilst demonstrating evidence for your own ideas as well as counter arguments where possible.  Don’t simply list ideas and results that others have published, compare contrast and analyze them.  By the end of this literature review, you should become an expert on the topic.
