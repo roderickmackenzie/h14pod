@@ -65,17 +65,17 @@ This literature review is worth 20% of the module and will be marked out of 100.
  - Discussion: Marks will be awarded for clear identification of the field of study, critical evaluation of the selected technologies, clear evidence of extensive independent study and thinking, comparison and contrasting of the current literature found in a range of sources, demonstration of an ability to build a logical argument from the current literature.
  - Referencing: Marks will be awarded for appropriate and correct citation, research with relevant literature, use of multiple sources, acknowledgment in the text of all sources for ideas quoted, paraphrased or accessed.
 
-5. Who will mark my literature review?
+6.Who will mark my literature review?
 --------------------------------------
 
 Dr. Bonnyman and Dr. MacKenzie
 
-6. Submission
+7.Submission
 -------------
 
 You are to submit the literature review in a zip file (not a rar or any other type of archive).  The zip file **must** contain a pdf of your literature review.  It must also contain all the source code and images needed to build the pdf.  You are to upload the zip file to moodle.  Late marks late marks will be applied as usual.  Note this is individual work not group work, the usual penalties for plagiarism will be applied.
 
-7. Hints
+8.Hints
 --------
 
 This is how you produce a double column document in LaTeX, you set your documentclass line to read:
