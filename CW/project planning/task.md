@@ -13,7 +13,7 @@ In a few weeks you will be starting your MSc research project.  In order to hit 
  - Are the risk assessment forms in place for what you want to do?
  - What happens if a key piece of equipment breaks, is there a plan B?
 
-It is worth finding out all the answers to these questions now(!) during the planning phase rather than later.
+It is worth finding out all the answers to these questions now (!) during the planning phase rather than later.
 
 2. Assignment Learning Outcomes
 -------------------------------
@@ -22,29 +22,30 @@ It is intended that you will demonstrate the following learning outcomes and be 
  - Demonstrate the application of the main principles of project planning and management.
  - Assess and mitigate against potential project risk.
  - Assess and mitigate against safety issues.
- - 
-Resources
-You will need:
- - To discuss the topic of your project with your supervisor.  This should be done in the same meeting as where he/she gives you your literature review topic.  It is not expected that you will need multiple meetings, nor exchange lots of e-mails with your supervisor to finish the project plan.  Try to ask all the relevant questions during your first meeting.
 
-What should be in your project plan?
- - A title page including the project title, your name and ‘studentID’.
+3.Resources
+===========
+
+You will need:
+ - To meet your project supervisor once before you start writing your project plan.  Discuss the topic of your project with him/her.  It is not expected that you will need multiple meetings, nor exchange lots of e-mails with your supervisor to finish the project plan, just one brief meeting where the topic of your project is set.  Try to ask all the relevant questions during your meeting.
+
+4.What should be in your project plan?
+======================================
+ - The project title, your name, studentID and the name of your supervisor. Note: You should not have a title page, this is a waste of paper, just incorporate this information into the first page of your document.
       
- - A short summary of your project and the project plan
-      
- - An contents list
+ - A short summary of your project and the project plan.
       
  - An introduction to the project
       
  - A concise but complete account of the aims and objectives of the project, this should include a list of the stakeholders and their roles in the project.
       
- - A list of proposed deliverables (outcomes) for the project.
+ - A list of proposed deliverables (outcomes) for the project, a list of mile stones
       
  - Identification of skills/knowledge required by you for the project. Do you have these skills already?  If not what can you do about this?
       
  - Identification of resources and key risks: Think about availability of equipment, availability of technical help, availability of post-docs etc..  Is there a key person without whom the project would no longer be viable?  What can you do to mitigate against this?  Are there any broader risks in the project which could make the project fail?  What can you to do mitigate these risks?
                           
- - A realistic and detailed week by week plan including a Gantt chart, with milestones and deliverables clearly marked on the chart.  You can use any package you want to generate this excel, or MS Project.  What would happen if a key piece of kit needed for the project broke for a month, redraw your Gannt chart to include this event.
+ - A realistic and detailed week by week plan including a Gantt chart, with *milestones* and *deliverables* clearly marked on the chart.  You can use any package you want to generate this excel, or MS Project.  What would happen if a key piece of kit needed for the project broke for a month, redraw your Gannt chart to include this event.
       
  - An appendix including:
  * Health & Safety risk assessment forms, for all experimental procedures carried out during the project (a minimum of 3 forms must be included).  If your project has no risks associated with it (unlikley), fill out three forms for; 1) Using a computer; 2) Soldering; and 3) abseiling down a building. Note: You must use the official University of Nottingham risk assessment forms for this process.
@@ -56,18 +57,20 @@ What should be in your project plan?
 The aim of this exercise is to produce a functional project plan.  Don’t be constrained by the above bullet points, if you think other things need to be included then include them.  If you have done preparation work for the project  already (a few people may have done this) such a writing matlab code, deriving some equations , or running experiments, include it in the appendix and talk about it under risk mitigation.
 
 
-How will it be marked?
-This report is worth 45% of the H14POD module and will be marked out of 100:
- - Project outline (via the summary and introduction): 10
- - The four elements of a project plan, clearly stating the aims and objectives within the first stage: 60
- - Identification of and methods of addressing the deficit in required skills and knowledge: 15
- - Health & Safety Risk analysis: 15
+5.How will it be marked?
+========================
 
-This assessment will be based on the quality of the project outline document, your ability to explain the basis and aims of the project, the quality and viability of the project planning and the quality and depth of the risk analysis. Your supervisor will mark your project plan, but I will moderate them to make sure that the marking scheme has been fairly applied.
+This report is worth 20% of the module and will be marked out of 100:
+ - Project outline (via the summary and introduction):
+ - The four elements of a project plan, clearly stating the aims and objectives within the first stage
+ - Identification of and methods of addressing the deficit in required skills and knowledge
+ - Health & Safety Risk analysis:
+
+This assessment will be based on the quality of the project outline document, your ability to explain the basis and aims of the project, the quality and viability of the project planning and the quality and depth of the risk analysis. Your supervisor will mark your project plan, but we will moderate them to make sure that the marking scheme has been fairly applied.
 
 How long should the project plan be?
 ====================================
-The main text to the document should not exceed 2500 words (excluding appendices, figure captions and references).  There is no page limit, and you can put as much information as you want in the appendix.
+The plan may not be longer than 5 pages, your references and appendix are not included in this limit.
 
 Plagiarism
 ==========
