@@ -2,7 +2,8 @@ Literature Review for Advanced Engineering Research Project Organization and Des
 =========================
 
 1. Background and motivation
----------------
+============================
+
 Over the summer you will be undertaking a research focused project.  Most of you will be embedded in a research group or at the very least have a supervisor who is research active.  The goal of Scientific/Engineering in a University is to make a novel contribution to your field of study.  Before you can do this, you must first understand what others have done before in your filed, what a novel direction of research would be and where your potential project fits into this this picture.  In short, it is much better to spend time building on the work of others, than repeating work others have already done before.  Or as Newton said in 1676, "If I have seen further, it is by standing on the shoulders of giants.", which means he only accomplished what he did by building on the work of others.
 
 This literature review, task will enable you to develop the skills of searching the literature for the work of others, thinking about what you have found, and discussing what you have found in written text.  Furthermore, a key element of a literature review is identifying which questions still remain open within the field, what is well studied and what has not yet been studied.
