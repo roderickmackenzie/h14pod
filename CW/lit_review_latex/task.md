@@ -2,7 +2,8 @@ Literature Review for Advanced Engineering Research Project Organization and Des
 =========================
 
 1. Background and motivation
----------------
+----------------------------
+
 Over the summer you will be undertaking a research focused project.  Most of you will be embedded in a research group or at the very least have a supervisor who is research active.  The goal of Scientific/Engineering in a University is to make a novel contribution to your field of study.  Before you can do this, you must first understand what others have done before in your filed, what a novel direction of research would be and where your potential project fits into this this picture.  In short, it is much better to spend time building on the work of others, than repeating work others have already done before.  Or as Newton said in 1676, "If I have seen further, it is by standing on the shoulders of giants.", which means he only accomplished what he did by building on the work of others.
 
 This literature review, task will enable you to develop the skills of searching the literature for the work of others, thinking about what you have found, and discussing what you have found in written text.  Furthermore, a key element of a literature review is identifying which questions still remain open within the field, what is well studied and what has not yet been studied.
@@ -11,6 +12,7 @@ When it comes time to perform a literature review as part of you dissertation, y
 
 2. The topic of the literature review
 -------------------------------------
+
 This literature review will be *on solar energy harvesting*, specifically turning the suns energy into a useful power source for man kind.  The way you approach the topic is up to you, for example if are doing an MSc in Electrical Engineering, you may want to focus on the challenges of running an electricity grid with a lot solar in it.  If your MSc is in Materials Science, you may want to focus on novel materials used in 3rd generation solar cells, or if your MSc is in the bio-sciences, you may want to focus on growing bio-mass to then burn to generate energy.  The exact focus is up to you, but your review must extensively answer at least three of the following points.
 
  - Discuss the past and future cost of harvesting solar energy, and how these have/will change over time.
@@ -35,7 +37,8 @@ It is intended that you will demonstrate the following learning outcomes:
  - Produce a well formatted document in LaTeX
 
 4. The format of the literature review
--------------------------------------
+--------------------------------------
+
 Document must contain:
 
  - Abstract
@@ -53,7 +56,7 @@ The document must:
 
 
 5.Marking Scheme
-================
+----------------
 
 This literature review is worth 20% of the module and will be marked out of 100.  You should give a comprehensive and critical background to the topic so that you can show your knowledge of the subject area.  You should acknowledge other people’s ideas and attribute them whilst demonstrating evidence for your own ideas as well as counter arguments where possible.  Don’t simply list ideas and results that others have published, compare contrast and analyze them.  By the end of this literature review, you should become an expert on the topics you chose.
 
@@ -64,14 +67,17 @@ This literature review is worth 20% of the module and will be marked out of 100.
 
 5. Who will mark my literature review?
 --------------------------------------
+
 Dr. Bonnyman and Dr. MacKenzie
 
 6. Submission
-------------
+-------------
+
 You are to submit the literature review in a zip file (not a rar or any other type of archive).  The zip file **must** contain a pdf of your literature review.  It must also contain all the source code and images needed to build the pdf.  You are to upload the zip file to moodle.  Late marks late marks will be applied as usual.  Note this is individual work not group work, the usual penalties for plagiarism will be applied.
 
 7. Hints
-========
+--------
+
 This is how you produce a double column document in LaTeX, you set your documentclass line to read:
 
 ~~~~
