@@ -6,23 +6,28 @@ Literature Review for Advanced Engineering Research Project Organization and Des
 
 Over the summer you will be undertaking a research focused project.  Most of you will be embedded in a research group or at the very least have a supervisor who is research active.  The goal of Scientific/Engineering in a University is to make a novel contribution to your field of study.  Before you can do this, you must first understand what others have done before in your filed, what a novel direction of research would be and where your potential project fits into this this picture.  In short, it is much better to spend time building on the work of others, than repeating work others have already done before.  Or as Newton said in 1676, "If I have seen further, it is by standing on the shoulders of giants.", which means he only accomplished what he did by building on the work of others.
 
-This literature review, task will enable you to develop the skills of searching the literature for the work of others, thinking about what you have found, and discussing what you have found in written text.  Furthermore, a key element of a literature review is identifying which questions still remain open within the field, what is well studied and what has not yet been studied.
+This literature review, task will enable you to develop the skills of searching the literature for the work of others, thinking about what you have found, and discussing what you have found in written text.  Furthermore, a key element of a literature review is identifying which questions still remain open within your field of study, what is well studied and what has not yet been studied.
 
-When it comes time to perform a literature review as part of you dissertation, you will already have these skills well practiced.  This means that when you start your project, you will hit the ground running. If your work, based on a sound literature review and raises very interesting research questions, you may even be able to turn your dissertation into a published paper which would be very good for your CV.
+When it comes time to perform a literature review as part of you dissertation, you will already have these skills well practiced within this coursework.  This means that when you start your project, you will hit the ground running. If your work, based on a sound literature review and raises very interesting research questions, you may even be able to turn your dissertation into a published paper which would be very good for your CV.
 
 2.The topic of the literature review
 -------------------------------------
 
-This literature review will be *on solar energy harvesting*, specifically turning the suns energy into a useful power source for man kind.  The way you approach the topic is up to you, for example if are doing an MSc in Electrical Engineering, you may want to focus on the challenges of running an electricity grid with a lot solar in it.  If your MSc is in Materials Science, you may want to focus on novel materials used in 3rd generation solar cells, or if your MSc is in the bio-sciences, you may want to focus on growing bio-mass to then burn to generate energy.  The exact focus is up to you, but your review must extensively answer at least three of the following points.
+This literature review will be *on solar energy harvesting*, specifically turning the suns energy into a useful power source for man kind.  The way you approach the topic is up to you, for example if are doing an MSc in Electrical Engineering, you may want to focus on the challenges of running an electricity grid with a lot solar in it.  If your MSc is in Materials Science, you may want to focus on novel materials used in 3rd generation solar cells, or if your MSc is in the bio-sciences, you may want to focus on growing bio-mass to then burn to generate energy.  The exact focus is up to you, but your review must extensively answer at least two of the following topics, combined into one coherent literature review:
 
- - Discuss the past and future cost of harvesting solar energy, and how these have/will change over time.
- - Under what circumstances/where in the world does solar energy already out compete fossil fuels in terms of costs, how is this projected to change and why?
- - What types of solar harvesting technologies are available, and how these have developed over time?  What will happen to these different types of technology in the future?
- - What are the upcoming and promising methods of harvesting the suns energy.
- - Predict how will the UKs electricity be produced in 20 years and why?
+ - Discuss the past and future cost of harvesting solar energy, and how have/will this cost change over time.
+ - Under what circumstances (where in the world) does solar energy already out compete fossil fuels in terms of costs, how is this projected to change and why?
+ - What types of solar harvesting technologies are available, and how these have developed over time?  What will happen to these different types of technology in the future? What are the upcoming and promising methods of harvesting the suns energy?
+ - How will solar energy affect the UK electricity grid?
+ - Predict how will the UK's electricity be produced in 20 years and why?
+ - Novel materials for solar energy production.
+ - Novel ways of generating solar energy.
  - How can solar energy be stored for use at night.
  - When might we run out of coal and oil?
+ - Why is carbon capture a thermodynamically bad idea?
+ - Is energy is a financially terrible idea compered to solar?
 
+We expect you to search the literature available to you through the University to learn enough about each topic to write a authoritative literature review.
 
 3.Learning Outcomes
 --------------------
@@ -35,6 +40,7 @@ It is intended that you will demonstrate the following learning outcomes:
  - Write scientific English
  - Use references.
  - Produce a well formatted document in LaTeX
+ - Be able to use search engines to extend your own knowledge, and answer technician questions.
 
 4.The format of the literature review
 --------------------------------------

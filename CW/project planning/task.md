@@ -1,5 +1,5 @@
-H14POD  Project Planning Assignment
-===================================
+Project Planning Assignment
+===========================
 
 1.Background
 ------------
@@ -33,9 +33,9 @@ You will need:
 ======================================
  - The project title, your name, studentID and the name of your supervisor. Note: You should not have a title page, this is a waste of paper, just incorporate this information into the first page of your document.
       
- - A short summary of your project and the project plan.
+ - A summary of your project and the project plan.
       
- - An introduction to the project
+ - An introduction to the project, including a discussion of the wider reasons as to why you are performing the project.  Try to answer the question 'why is my project important to humanity?'.
       
  - A concise but complete account of the aims and objectives of the project, this should include a list of the stakeholders and their roles in the project.
       
@@ -44,6 +44,7 @@ You will need:
  - Identification of skills/knowledge required by you for the project. Do you have these skills already?  If not what can you do about this?
       
  - Identification of resources and key risks: Think about availability of equipment, availability of technical help, availability of post-docs etc..  Is there a key person without whom the project would no longer be viable?  What can you do to mitigate against this?  Are there any broader risks in the project which could make the project fail?  What can you to do mitigate these risks?
+ - Include a budget, giving an estimated breakdown of the costs associated with your project.  Costs may include materials or access to equipment.
                           
  - A realistic and detailed week by week plan including a Gantt chart, with *milestones* and *deliverables* clearly marked on the chart.  You can use any package you want to generate this excel, or MS Project.  What would happen if a key piece of kit needed for the project broke for a month, redraw your Gannt chart to include this event.
       
