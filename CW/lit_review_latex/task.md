@@ -90,7 +90,7 @@ This is how you produce a double column document in LaTeX, you set your document
 \documentclass[twoside]{article} 
 ~~~~
 
-8. Getting latex on your own PC
+9.Getting latex on your own PC
 -------------------------------
 Latex comes in two parts the front end graphical user interface, and the back end which does all the work.   To get it to work on your own PC you must install both parts.  We have found this rather handy install guide which takes you through the process. The versions of the software they use are a little out of date but the steps are the same:
 
