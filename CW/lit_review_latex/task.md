@@ -54,7 +54,7 @@ Document must contain:
  - References
 
 The document must:
-- Not be longer than 2 pages of text + up to a maximum of 1 page of references. (3 pages in total)
+- Not be longer than 2 pages of text + up to a maximum of 1 page of references. (3 pages in total). Note: We expect *more than* 25 references.
 - It must be written in LaTeX, using a *double column format*.
 - It must contain two figures.
 - The referencing must be of the standard expected in an MSc dissertation, i.e. no web links.
