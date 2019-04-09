@@ -31,7 +31,7 @@ You will need:
 
 4.What should be in your project plan?
 ======================================
- - The project title, your name, studentID and the name of your supervisor. Note: You should not have a title page, this is a waste of paper, just incorporate this information into the first page of your document.
+ - The project title, your name, studentID and the name of your supervisor. Note: You should not have a title page, this is a waste of paper, just incorporate this information into the first page of your document. [Although the mark scheme asks for a cover page it is out dated and no cover page is needed, also do not include a table of content.  Your report should start with a title on the top of page 1, your name, your student ID, and e-mail.  Then just start with the abstract.]
       
  - A summary of your project and the project plan.
       
