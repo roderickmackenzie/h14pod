@@ -87,7 +87,7 @@ You are to submit the literature review in a zip file (not a rar or any other ty
 This is how you produce a double column document in LaTeX, you set your documentclass line to read:
 
 ~~~~
-\documentclass[twoside]{article} 
+\documentclass[twocolumn]{article}
 ~~~~
 
 
