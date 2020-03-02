@@ -1,12 +1,12 @@
 Project Planning Assignment
 ===========================
 
-Step 0 - Before you start
+1.Before you start
 -------------------------
 
-Over the next couple of weeks you should be allocated a project supervisor and a project title.  Once this happens, ask for a meeting with your supervisor to discuss your project so you can write your project plan.  Once this has happened fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHt7Ge-lGJgRKr2Csn30l_lxUQUFPTzBBS1MwMkZVVUc1TFJZN0FWNVYzUS4u), which will tell me you have successful been allocated a supervisor.  After you have done, this then you can start your project plan.  If you have not been allocated a project supervisor/project within around three weeks of now (2/3/2020), then get in touch with me.
+Over the next couple of weeks you should be allocated an MSc project supervisor and a project title.  Once this happens, e-mail your supervisor and ask for a meeting to discuss your project so you can write your project plan.  Once this has happened fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHt7Ge-lGJgRKr2Csn30l_lxUQUFPTzBBS1MwMkZVVUc1TFJZN0FWNVYzUS4u), which will tell me you have successful been allocated a supervisor.  After you have done this, this then you can start your project plan.  If you have not been allocated a project supervisor/project within around three weeks of now (2/3/2020), then get in touch with me.
 
-1. Background
+2.Background
 ------------
 
 In a few weeks you will be starting your MSc research project.  In order to hit the ground running, you will need a project plan with a good outline of what you have to do over the duration of the project.  Time during the project will be very limited so it is important you work efficiently. A good project plan will help you do this, and should act as a reference document to which you can refer back to. Writing the project plan should help you to think clearly about various aspects of the project, for example you might want to consider the following questions:
@@ -21,7 +21,7 @@ In a few weeks you will be starting your MSc research project.  In order to hit 
 
 It is worth finding out all the answers to these questions now (!) during the planning phase rather than later.
 
-2. Assignment Learning Outcomes
+3.Assignment Learning Outcomes
 -------------------------------
 
 It is intended that you will demonstrate the following learning outcomes and be able to:
@@ -29,13 +29,13 @@ It is intended that you will demonstrate the following learning outcomes and be 
  - Assess and mitigate against potential project risk.
  - Assess and mitigate against safety issues.
 
-3.Resources
+4.Resources
 ===========
 
 You will need:
  - To meet your project supervisor once before you start writing your project plan.  Discuss the topic of your project with him/her.  It is not expected that you will need multiple meetings, nor exchange lots of e-mails with your supervisor to finish the project plan, just one brief meeting where the topic of your project is set.  Try to ask all the relevant questions during your meeting.
 
-4.What should be in your project plan?
+5.What should be in your project plan?
 ======================================
  - The project title, your name, studentID and the name of your supervisor. Note: You should not have a title page, this is a waste of paper, just incorporate this information into the first page of your document.
       
@@ -61,13 +61,13 @@ You will need:
  * If there are standard operating procedures for any equipment, find out what they are and include them in the appendix.
  * When filling in this section, try to think if you have covered all the needed health and safety/ethical approval for your project.  These things can take a long time to sort out, so it is best you start now(!) before the clock starts ticking on your project.
 
-The aim of this exercise is to produce a functional project plan.  Don’t be constrained by the above bullet points, if you think other things need to be included then include them.  If you have done preparation work for the project  already (a few people may have done this) such a writing matlab code, deriving some equations , or running experiments, include it in the appendix and talk about it under risk mitigation.
+The aim of this exercise is to produce a functional project plan.  Don’t be constrained by the above bullet points, if you think other things need to be included then include them.  If you have done preparation work for the project  already (a few people may have done this) such a writing matlab code, deriving some equations, or running experiments, include it in the appendix and talk about it under risk mitigation.
 
 
-5.How will it be marked?
+6.How will it be marked?
 ========================
 
-This report is worth 20% of the module and will be marked out of 100:
+This report is worth 25% of the module and will be marked out of 100:
  - Project outline (via the summary and introduction):
  - The four elements of a project plan, clearly stating the aims and objectives within the first stage
  - Identification of and methods of addressing the deficit in required skills and knowledge
@@ -75,14 +75,14 @@ This report is worth 20% of the module and will be marked out of 100:
 
 This assessment will be based on the quality of the project outline document, your ability to explain the basis and aims of the project, the quality and viability of the project planning and the quality and depth of the risk analysis. Your supervisor will mark your project plan, but we will moderate them to make sure that the marking scheme has been fairly applied.
 
-How long should the project plan be?
+7.How long should the project plan be?
 ====================================
 The plan may not be longer than 5 pages, your references and appendix are not included in this limit.
 
-Plagiarism
+8.Plagiarism
 ==========
 As ever, this is individual work not group work.  The work you hand in must be your own and not written by someone else.
 
-Submission
+9.Submission
 ==========
-This will be submitted via moodle on the same day as the project plan.  It should be submitted as a pdf document, not as a doc or docx document.  If you do submit it as a word document and it does not open correctly on your supervisors laptop/tablet/idevice then you may loose presentation marks.
+This will be submitted via moodle on the same day as the literature review assignment.  It should be submitted as a pdf document, not as a doc or docx document.  If you do submit it as a word document and it does not open correctly on your supervisors laptop/tablet/i-device then you may loose presentation marks.
