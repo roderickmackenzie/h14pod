@@ -4,7 +4,7 @@ Literature Review for Advanced Engineering Research Project Organization and Des
 1.Background and motivation
 ----------------------------
 
-Over the summer you will be undertaking a research focused project.  Most of you will be embedded in a research group or at the very least have a supervisor who is research active.  The goal of Scientific/Engineering in a University is to make a novel contribution to your field of study.  Before you can do this, you must first understand what others have done before in your filed, what a novel direction of research would be and where your potential project fits into this this picture.  In short, it is much better to spend time building on the work of others, than repeating work others have already done before.  Or as Newton said in 1676, "If I have seen further, it is by standing on the shoulders of giants.", which means he only accomplished what he did by building on the work of others.
+Over the summer you will be undertaking a research focused project.  Most of you will be embedded in a research group or at the very least have a supervisor who is research active.  The goal of Scientific/Engineering in a University is to make a novel contribution to your field of study.  Before you can do this, you must first understand what others have done before in your filed, what a novel direction of research would be and where your potential project fits into this this picture.  In short, it is much better to spend time building on the work of others, than repeating work others have already done before.  Or as [Newton](https://en.wikipedia.org/wiki/Isaac_Newton) said in 1676, "If I have seen further, it is by standing on the shoulders of giants.", which means he only accomplished what he did by building on the work of others.
 
 This literature review, task will enable you to develop the skills of searching the literature for the work of others, thinking about what you have found, and discussing what you have found in written text.  Furthermore, a key element of a literature review is identifying which questions still remain open within your field of study, what is well studied and what has not yet been studied.
 
@@ -25,7 +25,7 @@ This literature review will be *on solar energy harvesting*, specifically turnin
  - How can solar energy be stored for use at night.
  - When might we run out of coal and oil?
  - Why is carbon capture a thermodynamically bad idea?
- - Is energy is a financially terrible idea compered to solar?
+ - Why will coal keep on getting more expensive and solar will become cheaper?
 
 We expect you to search the literature available to you through the University to learn enough about each topic to write a authoritative literature review.
 
@@ -54,8 +54,8 @@ Document must contain:
  - References
 
 The document must:
-- Not be longer than 2 pages of text (including tables, figures and diagrams) + up to a maximum of 1 page of references. (3 pages in total). Note: We expect *more than* 25 references (Note: you can get up to 60 references onto a single page).
-- It must be written in LaTeX, using a *double column format*.
+- Not be longer than 4 pages of text (including tables, figures and diagrams) + up to a maximum of 1 page of references. (3 pages in total). Note: We expect *more than* 25 references (Note: you can get up to 60 references onto a single page).
+- It must be written in LaTeX, using a *double column format*.  Documents in word will be rejected.
 - It must contain two figures.
 - The referencing must be of the standard expected in an MSc dissertation, i.e. no web links.
 - It must contain one table.
@@ -64,7 +64,7 @@ The document must:
 5.Marking Scheme
 ----------------
 
-This literature review is worth 20% of the module and will be marked out of 100.  You should give a comprehensive and critical background to the topic so that you can show your knowledge of the subject area.  You should acknowledge other people’s ideas and attribute them whilst demonstrating evidence for your own ideas as well as counter arguments where possible.  Don’t simply list ideas and results that others have published, compare contrast and analyze them.  By the end of this literature review, you should become an expert on the topics you chose.
+This literature review is worth 25% of the module and will be marked out of 100.  You should give a comprehensive and critical background to the topic so that you can show your knowledge of the subject area.  You should acknowledge other people’s ideas and attribute them whilst demonstrating evidence for your own ideas as well as counter arguments where possible.  Don’t simply list ideas and results that others have published, compare contrast and analyze them.  By the end of this literature review, you should become an expert on the topics you chose.
 
  - Report structure and format: Marks will be awarded for appropriate and correct structure.
  - Report writing & presentation: Marks will be awarded for presentation and readability with appropriate illustrations, a clearly defined introduction and conclusion, logical and fluent organization of ideas in the body of the report, appropriate grammar, punctuation, spelling and language use.
@@ -86,9 +86,9 @@ You are to submit the literature review in a zip file (not a rar or any other ty
 
 This is how you produce a double column document in LaTeX, you set your documentclass line to read:
 
-~~~~
+```
 \documentclass[twocolumn]{article}
-~~~~
+```
 
 
 9.Getting latex on your own PC
