@@ -6,6 +6,7 @@ Project Planning Assignment
 
 Over the next couple of weeks you should be allocated an MSc project supervisor and a project title.  Once this happens, e-mail your supervisor and ask for a meeting to discuss your project so you can write your project plan.  Once this has happened fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHt7Ge-lGJgRKr2Csn30l_lxUQUFPTzBBS1MwMkZVVUc1TFJZN0FWNVYzUS4u), which will tell me you have successful been allocated a supervisor.  After you have done this, this then you can start your project plan.  If you have not been allocated a project supervisor/project within around three weeks of now (2/3/2020), then get in touch with me.
 
+
 2.Background
 ------------
 
