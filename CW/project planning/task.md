@@ -1,8 +1,14 @@
 Project Planning Assignment
 ===========================
 
-1.Background
+Step 0 - Before you start
+-------------------------
+
+Over the next couple of weeks you should be allocated a project supervisor and a project title.  Once this happens, ask for a meeting with your supervisor to discuss your project so you can write your project plan.  Once this has happened fill in this [form](https://forms.office.com/Pages/ResponsePage.aspx?id=7qe9Z4D970GskTWEGCkKHt7Ge-lGJgRKr2Csn30l_lxUQUFPTzBBS1MwMkZVVUc1TFJZN0FWNVYzUS4u), which will tell me you have successful been allocated a supervisor.  After you have done, this then you can start your project plan.  If you have not been allocated a project supervisor/project within around three weeks of now (2/3/2020), then get in touch with me.
+
+1. Background
 ------------
+
 In a few weeks you will be starting your MSc research project.  In order to hit the ground running, you will need a project plan with a good outline of what you have to do over the duration of the project.  Time during the project will be very limited so it is important you work efficiently. A good project plan will help you do this, and should act as a reference document to which you can refer back to. Writing the project plan should help you to think clearly about various aspects of the project, for example you might want to consider the following questions:
 
  - Is the proposed project realistic?
@@ -31,7 +37,7 @@ You will need:
 
 4.What should be in your project plan?
 ======================================
- - The project title, your name, studentID and the name of your supervisor. Note: You should not have a title page, this is a waste of paper, just incorporate this information into the first page of your document. [Although the mark scheme asks for a cover page it is out dated and no cover page is needed, also do not include a table of content.  Your report should start with a title on the top of page 1, your name, your student ID, and e-mail.  Then just start with the abstract.]
+ - The project title, your name, studentID and the name of your supervisor. Note: You should not have a title page, this is a waste of paper, just incorporate this information into the first page of your document.
       
  - A summary of your project and the project plan.
       
