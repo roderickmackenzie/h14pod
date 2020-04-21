@@ -60,7 +60,7 @@ You will need:
  * If your project includes chemicals, include the necessary COSHH forms.
  * If your project includes experiments with humans, or collecting data from humans (especially important in human factors projects), include the ethical approval forms in the appendix.
  * If there are standard operating procedures for any equipment, find out what they are and include them in the appendix.
- * When filling in this section, try to think if you have covered all the needed health and safety/ethical approval for your project.  These things can take a long time to sort out, so it is best you start now(!) before the clock starts ticking on your project.
+ * When filling in this section, try to think if you have covered all the needed health and safety/ethical approval for your project.  These things can take a long time to sort out, so it is best you start now(!) before the clock starts ticking on your project. Note: You may not need ethical approval for your project, some simulation work may well not need ethical approval, testing a medical device would do.
 
 The aim of this exercise is to produce a functional project plan.  Don’t be constrained by the above bullet points, if you think other things need to be included then include them.  If you have done preparation work for the project  already (a few people may have done this) such a writing matlab code, deriving some equations, or running experiments, include it in the appendix and talk about it under risk mitigation.
 
